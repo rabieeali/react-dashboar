@@ -166,3 +166,10 @@ margin-left:auto ;
 #searchQuerySubmit:hover {
   cursor: pointer;
 }
+.rtl{
+  direction: rtl;
+}
+.mt-10{
+  display: block;
+  margin-top: 10em;
+}
